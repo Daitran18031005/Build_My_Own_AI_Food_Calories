@@ -1,0 +1,22 @@
+# === Core scientific packages ===
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+
+# === Deep Learning ===
+torch
+torchvision
+opencv-python
+pillow
+
+# === API / Backend ===
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+# === Testing & Notebook ===
+pytest
+jupyter
