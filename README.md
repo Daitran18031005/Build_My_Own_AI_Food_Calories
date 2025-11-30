@@ -7,3 +7,5 @@ Ngày 2: làm các bài tập notebook ôn tập lại nền tảng python trong
 Ngày 3: làm các bài tập notebook từ 9-15 trong thư mục Intermediate.
 
 Ngày 4: làm bài tập 17 trong thư mục hard
+
+Ngày 5: làm bài tập 18 - 20 của python fundamentals và bài 1 của python điều khiển luồng
